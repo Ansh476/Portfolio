@@ -1,6 +1,6 @@
 import React from 'react';
-import { FaFootballBall, FaLaptopCode, FaBrain } from 'react-icons/fa'; // Icons for interests
-import { IoMdSchool } from 'react-icons/io'; // Academic icon
+import { FaFootballBall, FaLaptopCode, FaBrain } from 'react-icons/fa';
+import { IoMdSchool } from 'react-icons/io';
 
 const About = () => {
   return (
@@ -28,8 +28,7 @@ const About = () => {
               <strong>2024:</strong> BuilDING full-stack applications in MERN stack.
             </li>
           </ul>
-
-          {/* Academic Achievements */}
+          
           <h2 className='text-3xl font-bold mb-4'>Academic Achievements</h2>
           <div className='flex items-center gap-4 mb-6'>
             <IoMdSchool className='text-4xl' />
@@ -37,8 +36,7 @@ const About = () => {
               Achieved top 10% ranking in IT department at VESIT.
             </p>
           </div>
-
-          {/* Professional & Personal Interests */}
+          
           <h2 className='text-3xl font-bold mb-4'>Interests</h2>
           <div className='flex gap-8'>
             <div className='text-center'>
