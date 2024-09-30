@@ -25,7 +25,7 @@ const About = () => {
               <strong>2022:</strong> Joined VESIT pursuing Information Technology.
             </li>
             <li className='mb-4'>
-              <strong>2024:</strong> BuilDING full-stack applications in MERN stack.
+              <strong>2024:</strong> Building full-stack applications in MERN stack.
             </li>
           </ul>
           
