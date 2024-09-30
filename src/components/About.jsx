@@ -33,7 +33,7 @@ const About = () => {
           <div className='flex items-center gap-4 mb-6'>
             <IoMdSchool className='text-4xl' />
             <p className='text-lg'>
-              Achieved top 10% ranking in IT department at VESIT.
+              Achieved a avg cgpi of 8.71 at VESIT.
             </p>
           </div>
           
