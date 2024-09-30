@@ -1,7 +1,6 @@
 import React from 'react';
 
 const Skills = () => {
-  // Skill data: name and level (1 = full, 0.5 = half, etc.)
   const skills = [
     { name: 'HTML', level: 1 },
     { name: 'CSS', level: 0.75 },
